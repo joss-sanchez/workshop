@@ -1,0 +1,49 @@
+{
+  "local": {
+    "GTM_ID": "GTM-PV4NSN",
+    "HUBSPOT_ID": "7254930",
+    "BASE_API_URL": "https://gates.alegra.com/api/",
+    "BASE_URL": "https://hopper.alegra.com/",
+    "BASE_API_CONFIG_URL": "https://almost-config.alegra.com/api/",
+    "BASE_API_CONTACTS_URL": "https://almost-api-contacts.alegra.com/api/",
+    "COOKIE_TOKEN": "al-test-auth-token",
+    "COOKIE_NOTIFICATION": "al-test-notifications",
+    "CHAT_COOKIE": "al-test-hubspot"
+  },
+
+  "testing": {
+    "GTM_ID": "GTM-PV4NSN",
+    "HUBSPOT_ID": "7254930",
+    "BASE_API_URL": "https://gates.alegra.com/api/",
+    "BASE_URL": "https://hopper.alegra.com/",
+    "BASE_API_CONFIG_URL": "https://almost-config.alegra.com/api/",
+    "BASE_API_CONTACTS_URL": "https://almost-api-contacts.alegra.com/api/",
+    "COOKIE_TOKEN": "al-test-auth-token",
+    "COOKIE_NOTIFICATION": "al-test-notifications",
+    "CHAT_COOKIE": "al-test-hubspot"
+  },
+
+  "sandbox": {
+    "GTM_ID": "GTM-TPPVF5KP",
+    "HUBSPOT_ID": "6180490",
+    "BASE_API_URL": "https://sandbox-api.alegra.com/api/",
+    "BASE_URL": "https://sandbox-app.alegra.com/",
+    "BASE_API_CONFIG_URL": "https://sandbox-config.alegra.com/api/",
+    "BASE_API_CONTACTS_URL": "https://sandbox-api-contacts.alegra.com/api/",
+    "COOKIE_TOKEN": "al-sand-auth-token",
+    "COOKIE_NOTIFICATION": "al-sand-notifications",
+    "CHAT_COOKIE": "al-sand-hubspot"
+  },
+
+  "production": {
+    "GTM_ID": "GTM-KQG46G",
+    "HUBSPOT_ID": "6180490",
+    "BASE_API_URL": "https://api.alegra.com/api/",
+    "BASE_URL": "https://app.alegra.com/",
+    "BASE_API_CONFIG_URL": "https://config.alegra.com/api/",
+    "BASE_API_CONTACTS_URL": "https://api-contacts.alegra.com/api/",
+    "COOKIE_TOKEN": "al-auth-token",
+    "COOKIE_NOTIFICATION": "al-notifications",
+    "CHAT_COOKIE": "al-hubspot"
+  }
+}
